@@ -1,0 +1,12 @@
+C:\Users\lucky\Desktop\Cloned2\SEDO-Exam-Prep-2-2\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.deps.json
+C:\Users\lucky\Desktop\Cloned2\SEDO-Exam-Prep-2-2\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.runtimeconfig.json
+C:\Users\lucky\Desktop\Cloned2\SEDO-Exam-Prep-2-2\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.dll
+C:\Users\lucky\Desktop\Cloned2\SEDO-Exam-Prep-2-2\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.pdb
+C:\Users\lucky\Desktop\Cloned2\SEDO-Exam-Prep-2-2\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.AssemblyReference.cache
+C:\Users\lucky\Desktop\Cloned2\SEDO-Exam-Prep-2-2\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucky\Desktop\Cloned2\SEDO-Exam-Prep-2-2\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfoInputs.cache
+C:\Users\lucky\Desktop\Cloned2\SEDO-Exam-Prep-2-2\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfo.cs
+C:\Users\lucky\Desktop\Cloned2\SEDO-Exam-Prep-2-2\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.CoreCompileInputs.cache
+C:\Users\lucky\Desktop\Cloned2\SEDO-Exam-Prep-2-2\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.dll
+C:\Users\lucky\Desktop\Cloned2\SEDO-Exam-Prep-2-2\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.pdb
+C:\Users\lucky\Desktop\Cloned2\SEDO-Exam-Prep-2-2\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.genruntimeconfig.cache
